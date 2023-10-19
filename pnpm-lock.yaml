@@ -14,6 +14,9 @@ dependencies:
   lucide-svelte:
     specifier: ^0.287.0
     version: 0.287.0(svelte@4.2.1)
+  open-props:
+    specifier: ^1.6.7
+    version: 1.6.7
 
 devDependencies:
   '@sveltejs/adapter-auto':
@@ -1385,6 +1388,10 @@ packages:
     dependencies:
       wrappy: 1.0.2
     dev: true
+
+  /open-props@1.6.7:
+    resolution: {integrity: sha512-69oZKteIkxn1wTZRc2WCKGWgsMxIFK3GmcucC82DuDgmeG1RD5qKSVzXDSyLB/8jGiCdD27IdtGqorg61+qx5w==}
+    dev: false
 
   /optionator@0.9.3:
     resolution: {integrity: sha512-JjCoypp+jKn1ttEFExxhetCKeJt9zhAgAve5FXHixTvFDW/5aEktX9bufBKLRRMdU7bNtpLfcGu94B3cdEJgjg==}
