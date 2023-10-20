@@ -11,7 +11,7 @@
 <style>
 
     footer {
-        padding-block: --var(--size-7);
+        padding-block: var(--size-7);
         border-top: 1px solid var(--border);
     }
 

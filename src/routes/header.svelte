@@ -26,7 +26,8 @@
 <style>
 
     nav {
-       padding-block: var(--size-7); 
+       
+       padding: var(--size-7);
     }
     .links {
         margin-block: var(--size-7);
@@ -45,7 +46,7 @@
 
         .links {
             display: flex;
-            gap: --var(--size-7);
+            gap: var(--size-7);
             margin-block:0;
         }
     }
